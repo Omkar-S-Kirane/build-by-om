@@ -4,7 +4,7 @@
     "slug": "build-by-om",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/project-images/newlogo.png",
+    "icon": "./assets/images/icon.png",
     "scheme": "buildbyom",
     "userInterfaceStyle": "dark",
     "ios": {
@@ -14,7 +14,7 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#0a0a1a",
-        "foregroundImage": "./assets/images/project-images/newlogo.png"
+        "foregroundImage": "./assets/images/icon.png"
       },
       "package": "com.buildbyom.app"
     },

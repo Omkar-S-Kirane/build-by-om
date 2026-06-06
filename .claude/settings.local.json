@@ -16,7 +16,28 @@
       "Bash(git fetch *)",
       "Bash(git rebase *)",
       "Bash(git stash *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(chmod +x \"/Users/omkarkirane/Documents/Projects/Personal Projects/Portfolio-2K26/scripts/setup.sh\")",
+      "Bash(npm run *)",
+      "Bash(python3 -c \"from PIL import Image; print\\('pillow ok'\\)\")",
+      "Bash(python3 -c \"import importlib; print\\('no pillow'\\)\")",
+      "Bash(sips --padToHeightWidth 1618 1618 --padColor 0A0A1A -s format png \"/Users/omkarkirane/Documents/Projects/Personal Projects/Portfolio-2K26/assets/images/project-images/newlogo.png\" --out \"/Users/omkarkirane/Documents/Projects/Personal Projects/Portfolio-2K26/assets/images/icon-square.png\")",
+      "Bash(npx expo-doctor *)",
+      "Bash(grep -c \"^ios$\\\\|^android$\\\\|^/ios\\\\|^/android\" .gitignore)",
+      "Bash(pod install *)",
+      "Bash(xcrun simctl *)",
+      "Bash(xcodebuild -version)",
+      "Bash(xcodebuild -checkFirstLaunchStatus)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(xcodebuild -workspace \"/Users/omkarkirane/Documents/Projects/Personal Projects/Portfolio-2K26/ios/buildbyom.xcworkspace\" -scheme buildbyom -showdestinations)",
+      "Bash(xcodebuild -workspace \"/Users/omkarkirane/Documents/Projects/Personal Projects/Portfolio-2K26/ios/buildbyom.xcworkspace\" -scheme buildbyom -destination 'platform=iOS Simulator,name=iPhone 16 Pro,OS=18.6' -configuration Debug build)",
+      "Bash(grep -rn 'basename $[A-Z]' \"/Users/omkarkirane/Documents/Projects/Personal Projects/Portfolio-2K26/node_modules/\" --include=\"*.sh\")",
+      "Bash(grep -v 'basename \"$')",
+      "Bash(export ANDROID_HOME=$HOME/Library/Android/sdk)",
+      "Read(//Users/omkarkirane/Library/Android/sdk/emulator/**)",
+      "Bash(/Users/omkarkirane/Library/Android/sdk/emulator/emulator -list-avds)",
+      "Bash(/Users/omkarkirane/Library/Android/sdk/platform-tools/adb devices *)",
+      "Bash(grep -o '`[^`]*`')"
     ]
   }
 }
