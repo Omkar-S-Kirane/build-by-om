@@ -12,7 +12,11 @@
       "Bash(npx tsc *)",
       "Bash(rm -rf src/app/'\\(tabs\\)' src/app/project src/components/sections src/components/ui src/components/layout src/data src/utils src/hooks/useScrollAnimation.ts src/lib)",
       "Bash(rmdir src/hooks)",
-      "mcp__Claude_Preview__preview_start"
+      "mcp__Claude_Preview__preview_start",
+      "Bash(git fetch *)",
+      "Bash(git rebase *)",
+      "Bash(git stash *)",
+      "Bash(git push *)"
     ]
   }
 }
