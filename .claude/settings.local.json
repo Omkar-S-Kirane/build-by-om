@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npx --yes create-expo-app@latest . --template default)",
+      "Read(//private/tmp/**)",
+      "Bash(npx --yes create-expo-app@latest portfolio-temp --template default)",
+      "Bash(npx expo *)",
+      "Bash(npm install *)",
+      "Bash(rm -f src/app/explore.tsx src/app/index.tsx src/components/animated-icon.tsx src/components/animated-icon.web.tsx src/components/animated-icon.module.css src/components/app-tabs.tsx src/components/app-tabs.web.tsx src/components/external-link.tsx src/components/hint-row.tsx src/components/web-badge.tsx src/components/themed-text.tsx src/components/themed-view.tsx src/components/ui/collapsible.tsx src/global.css src/hooks/use-color-scheme.ts src/hooks/use-color-scheme.web.ts src/hooks/use-theme.ts scripts/reset-project.js)",
+      "Bash(rmdir scripts *)",
+      "Bash(npx tsc *)",
+      "Bash(rm -rf src/app/'\\(tabs\\)' src/app/project src/components/sections src/components/ui src/components/layout src/data src/utils src/hooks/useScrollAnimation.ts src/lib)",
+      "Bash(rmdir src/hooks)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
